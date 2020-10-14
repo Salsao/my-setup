@@ -1,0 +1,28 @@
+{
+  "files.insertFinalNewline": true,
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "files.trimTrailingWhitespace": true,
+  "workbench.startupEditor": "newUntitledFile",
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "editor.minimap.enabled": true,
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Monokai",
+  "editor.snippetSuggestions": "top",
+  "breadcrumbs.enabled": true,
+  "update.enableWindowsBackgroundUpdates": false,
+  "update.showReleaseNotes": false,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.jsxSingleQuote": true,
+  "prettier.printWidth": 150,
+  "prettier.requireConfig": true,
+}
