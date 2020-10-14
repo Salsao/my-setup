@@ -1,4 +1,4 @@
-#Favorites extensions for vscode
+### Favorites extensions for vscode
 
 [Babel Javascript](https://marketplace.visualstudio.com/items?itemName=mgmcdermott.vscode-language-babel)
 
