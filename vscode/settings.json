@@ -1,7 +1,7 @@
 {
   "files.insertFinalNewline": true,
   "editor.tabSize": 2,
-  "editor.formatOnSave": false,
+  "editor.formatOnSave": true,
   "files.trimTrailingWhitespace": true,
   "workbench.startupEditor": "newUntitledFile",
   "prettier.singleQuote": true,
